@@ -13,4 +13,4 @@ Config files for my GitHub profile.
 
 ## 📫 Contact
 - Blog: [https://naming123.github.io](https://naming123.github.io)
-- Email: your.email@example.com
+- Email: osm1307@gmail.com
