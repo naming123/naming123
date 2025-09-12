@@ -10,8 +10,11 @@ Config files for my GitHub profile.
 
 ---
 
+## 📊 Algorithm Tier
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=osmnick)](https://solved.ac/osmnick)
+
+---
 
 ## 📫 Contact
 - Blog: [https://naming123.github.io](https://naming123.github.io)
 - Email: osm1307@gmail.com
-
